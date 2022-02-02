@@ -9,13 +9,13 @@ Let it run, and answer the questions.
 **This script tweaks:**
 
 
-Block Telemetry
+-Telemetry
 
-Improves System Latency & Stability
+-System Latency
 
-Disabling useless services that waste CPU cycles
+-Services
 
-Debloats any type of Bloatware and Useless Packages
+-Bloat of Windows
 
-Wide & Advanced System Cleanup
+-And a lot more!
 
