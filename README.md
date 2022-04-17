@@ -31,3 +31,7 @@ This script is intended to speed up and clean your Windows 10 PC.
 
 -And a lot more!
 
+
+
+
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
