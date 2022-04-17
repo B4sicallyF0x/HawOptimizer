@@ -1,4 +1,4 @@
-# WinOptimizer10
+# HawOptimizer
 This script is intended to speed up and clean your Windows 10 PC.
 # How do I use it?
 -Go to the Release's page and download it
