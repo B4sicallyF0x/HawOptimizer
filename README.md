@@ -1,5 +1,10 @@
 # HawOptimizer
 This script is intended to speed up and clean your Windows 10 PC.
+
+# ⚠️ README ⚠️
+
+**I will not update this script anymore. It is obsolete but still works. Be careful with the scripts you run, some can break the system irreversibly. I am not responsible for any damage caused by this script.**
+
 # How do I use it?
 -Go to the Release's page and download it
 
@@ -9,13 +14,6 @@ This script is intended to speed up and clean your Windows 10 PC.
 
 -Let it run, and when you finish, reboot Windows.
 
-# How to run P607 Script?
-
--Go to "P607 Script", and open *HawOptimizer.cmd* as admin.
-
--Answer the questions with yes or no. If you are not sure, answer no.
-
--When you finish, reboot Windows.
 
 # What Does This Do?
 **This script tweaks:**
